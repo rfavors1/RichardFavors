@@ -9,7 +9,7 @@
 fscanf(STDIN, "%s\n", $string);
 $length = strlen($string);
 $subs = array();
-//I made this change.
+//I made this change. dofhinfnfnewrnlwernoerw
 for ($i=0; $i<=$length-1; $i++) {
     for ($j=$i; $j<=$length-1; $j++) {
 		$temp = substr($string,$i,$j);
